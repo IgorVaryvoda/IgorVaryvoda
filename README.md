@@ -2,9 +2,10 @@
 
 <div align="center">
   <p>My name is Igor and I do Marketing at <a href="https://sirv.com/">Sirv</a></p>. 
-  <video src="https://sirv.sirv.com/website/vid/SirvImageAttributesVid.mp4?_=1"></video>
+  <p>Here's how it works</p>
+  <img src="https://cdn.earthroulette.com/sirv-github.gif" alt="How Sirv works animated GIF"/>
 
-<i>Follow me:</i><br>
+Follow me:<br>
 
 <a href="https://www.linkedin.com/in/igorvaryvoda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/igorvaryvoda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
