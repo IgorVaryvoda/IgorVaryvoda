@@ -2,7 +2,7 @@
 <div align="center">
   <p>My name is Igor and I do Marketing at <a href="https://sirv.com/">Sirv</a>.</p>
   <p>Here's how it works:</p>
-  <img src="https://cdn.earthroulette.com/sirv-github.gif" alt="How Sirv works animated GIF"/>
+  <img src="https://sirv.sirv.com/email%20marketing/SMV-3.5MB.gif" alt="How Sirv works animated GIF"/>
 
 Follow me:<br>
 
