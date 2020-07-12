@@ -1,8 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
 <div align="center">
   <p>My name is Igor and I do Marketing at <a href="https://sirv.com/">Sirv</a></p>. 
-  <p>Here's how it works</p>
+  <p>Here's how it works:</p>
   <img src="https://cdn.earthroulette.com/sirv-github.gif" alt="How Sirv works animated GIF"/>
 
 Follow me:<br>
