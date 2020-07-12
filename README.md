@@ -3,6 +3,7 @@
   <p>My name is Igor and I do Marketing at <a href="https://sirv.com/">Sirv</a>.</p>
   <p>Here's what we've been working on lately:</p>
   <img src="https://sirv.sirv.com/email%20marketing/SMV-3.5MB.gif" alt="How Sirv works animated GIF"/>
+  <br>
   <a href="https://sirv.com/help/articles/sirv-media-viewer/">Check it out here.</a>
 Follow me:<br>
 
